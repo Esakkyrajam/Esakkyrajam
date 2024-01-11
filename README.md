@@ -19,7 +19,7 @@
 ###
 <div align="center">
   <!-- Replace the username below with your GitHub username -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Esakkyrajam"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Esakkyrajam.Esakkyrajam"  />
 </div>
 
 
