@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a passionate Java developer based in [Your Location].<br><br>- 🔭 I’m working on creating robust and scalable Java applications.<br>- 📚 Currently, I'm diving deep into [specific Java-related technology or framework].<br>- ⚡ In my free time, I love to contribute to open-source projects and explore new Java advancements.</p>
+<p align="left">I'm a passionate Java developer based in TamilNadu<br><br>- 🔭 I’m working on creating robust and scalable Java applications.<br>- 📚 Currently, I'm diving deep into ReactJS.<br>- ⚡ In my free time, I love to contribute to open-source projects and explore new Java advancements.</p>
 
 ###
 
