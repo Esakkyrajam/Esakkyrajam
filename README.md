@@ -1,12 +1,20 @@
 ![logo](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/Esakky%20Raja%20M%20(1).png)
 
 ###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <!-- Replace the URL below with your LinkedIn profile URL -->
+  <img src="https://www.linkedin.com/in/esakkyraja-m/" height="25" alt="linkedin logo"  />
+  
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <!-- Replace the URL below with your YouTube channel URL -->
+  <img src="https://www.youtube.com/c/your-youtube-channel" height="25" alt="youtube logo"  />
+  
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <!-- Replace the URL below with your Twitter profile URL -->
+  <img src="https://twitter.com/your-twitter-username" height="25" alt="twitter logo"  />
 </div>
+
 
 ###
 
