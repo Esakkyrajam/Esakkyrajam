@@ -46,12 +46,11 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My GitHub Stats:</h3>
 
 ###
 
 <div align="center">
-  <!-- Add relevant stats or achievements related to your Java development -->
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
 </div>
 
