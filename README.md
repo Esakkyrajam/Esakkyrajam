@@ -1,7 +1,5 @@
 ![logo](https://github.com/Esakkyrajam/Esakkyrajam/blob/main/Esakky%20Raja%20M%20(1).png)
-<div align="center">
-  <img height="150" src="https://github.com/Esakkyrajam/Esakkyrajam/blob/main/Esakky%20Raja%20M%20(1).png"  />
-</div>
+
 
 ###
 
