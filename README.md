@@ -17,10 +17,11 @@
 
 
 ###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=esakkyrajam.esakkyrajam&"  />
+  <!-- Replace the username below with your GitHub username -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Esakkyrajam"  />
 </div>
+
 
 ###
 
